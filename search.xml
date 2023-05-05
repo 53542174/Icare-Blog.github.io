@@ -5,6 +5,25 @@
     
     <entry>
       <title>生活记录</title>
+      <link href="/2022/05/05/2023-5-5-%E7%AC%AC1%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/05/05/2023-5-5-%E7%AC%AC1%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活记录 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活记录</title>
       <link href="/2022/05/05/2023-5-5-%E7%AC%AC2%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/05/05/2023-5-5-%E7%AC%AC2%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
@@ -24,8 +43,8 @@
     
     <entry>
       <title>生活记录</title>
-      <link href="/2022/05/05/2023-5-5-%E7%AC%AC1%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/05/05/2023-5-5-%E7%AC%AC1%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/2022/05/05/2023-5-5-%E7%AC%AC3%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/05/05/2023-5-5-%E7%AC%AC3%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
       
@@ -61,16 +80,16 @@
     
     
     <entry>
-      <title>生活记录</title>
-      <link href="/2022/05/05/2023-5-5-%E7%AC%AC3%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/05/05/2023-5-5-%E7%AC%AC3%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>c++</title>
+      <link href="/2022/05/05/2023-5-5-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/05/05/2023-5-5-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第2篇文章"><a href="#这是我的第2篇文章" class="headerlink" title="这是我的第2篇文章"></a>这是我的第2篇文章</h2>]]></content>
       
       
       <categories>
           
-          <category> 生活记录 </category>
+          <category> c++ </category>
           
       </categories>
       
@@ -90,25 +109,6 @@
       <categories>
           
           <category> python </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>c++</title>
-      <link href="/2022/05/05/2023-5-5-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/05/05/2023-5-5-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我的第2篇文章"><a href="#这是我的第2篇文章" class="headerlink" title="这是我的第2篇文章"></a>这是我的第2篇文章</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> c++ </category>
           
       </categories>
       
